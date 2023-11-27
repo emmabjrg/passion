@@ -1,0 +1,94 @@
+
+
+#billede_1 {
+    background-image: url('/passion/img/billede_1_bww.webp');
+    aspect-ratio: 2/3;
+    width: 300px;
+    position: absolute;
+    top: 180px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#billede_2 {
+    background-image: url('/passion/img/billede_2_bww.webp');
+    aspect-ratio: 2/3 ;
+    width: 400px;
+    position: absolute;
+    top: 1300px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#billede_3 {
+    background-image: url('/passion/img/billede_3_bww.webp');
+    aspect-ratio: 3/2;
+    width: 300px;
+    position: absolute;
+    top: 900px;    
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#billede_4 {
+    background-image: url('/passion/img/billede_4_bww.webp');
+    aspect-ratio: 3/2;
+    width: 350px;
+    position: absolute;
+    top: 1150px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#billede_5 {
+    background-image: url('/passion/img/billede_5_bww.webp');
+    aspect-ratio: 3/2;
+    width: 380px;
+    position: absolute;
+    top: 600px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#video_container {
+    aspect-ratio: 16/9;
+    width: 75%; 
+    max-width: 1910px; 
+    margin: auto;
+    position: absolute;
+    top: 156%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#videoen_yt {
+    aspect-ratio: 16/9;
+    width: 80%; 
+    max-width: 1920px; 
+    margin: auto;
+    padding: 5%;
+    position: absolute;
+    top: 3034%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+video {
+    width: 100%;
+}
+	
+iframe {
+    width: 100%;
+  }
+
+#tak {
+    color: rgb(184, 184, 184);
+    position: relative;
+    size: 1%;
+    left: 0%;
+}
+
+footer {
+    color: white;
+    font-size: 13px;
+    position: relative;
+    top: 2100px;
+    left: 0%;
+  }

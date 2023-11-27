@@ -1,0 +1,55 @@
+header {
+    color: white;
+    padding: 0;
+    margin: 0;
+    top: 0%;    
+    left: 50%;
+    text-align: center;
+    font-size: 300%;
+    position: fixed;
+    transform: translateX(-50%);
+    font-family: DMSerifDisplay-Regular;
+}
+body {
+   background-image:url('/passion/img/baggrund_.webp');
+   background-color: rgb(16, 16, 16);
+   position: relative;
+}
+
+#vertical_line {
+    position: absolute;
+    width: 6px;
+    height: 2234px;
+    background-color: white;
+    left: 50%;
+    top: 0%;
+    margin: 0;
+    padding: 0;
+}
+
+#video-link {
+    color: white;
+    font-size: 90px;
+    text-align: center;
+    position: relative;
+    transform: translateX(-50%);
+    top: 1900px;
+    left: 50%;
+}
+
+ a{
+    color: white;
+ }
+
+#home {
+    color: white;
+    font-size: 20px;
+    position: fixed;
+    top: 5%;
+}
+
+
+@font-face {
+    font-family: DMSerifDisplay-Regular ;
+    src: url('/passion/font/DMSerifDisplay-Regular.woff2');
+}
